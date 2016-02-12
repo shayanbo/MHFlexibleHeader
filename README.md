@@ -1,9 +1,9 @@
 # MHFlexibleHeader
 Flexible Section Header for Tableview
 
-[![Cocoapods](http://img.shields.io/cocoapods/v/MHFlexibleHeader.svg?style=flat)](http://www.cocoapods.org/?q= mhflexibleheader)
-[![Cocoapods](http://img.shields.io/cocoapods/l/MHFlexibleHeader.svg?style=flat)](http://www.cocoapods.org/?q=mhflexibleheader)
-[![Cocoapods](http://img.shields.io/cocoapods/p/MHFlexibleHeader.svg?style=flat)](http://www.cocoapods.org/?q= mhflexibleheader)
+[![CocoaPods](http://img.shields.io/cocoapods/v/MHFlexibleHeader.svg?style=flat)](http://www.cocoapods.org/?q= mhflexibleheader)
+[![CocoaPods](http://img.shields.io/cocoapods/l/MHFlexibleHeader.svg?style=flat)](http://www.cocoapods.org/?q=mhflexibleheader)
+[![CocoaPods](http://img.shields.io/cocoapods/p/MHFlexibleHeader.svg?style=flat)](http://www.cocoapods.org/?q= mhflexibleheader)
 [![Join the chat at https://gitter.im/MickeyHub/MHFlexibleHeader](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/MickeyHub/MHFlexibleHeader)
 [![Contact](https://img.shields.io/badge/contact-Mickey-green.svg)](http://weibo.com/u/2194071594)
 
@@ -13,7 +13,7 @@ A subclass of UITableView to fix header when scroll up and movable header when s
 
 ![MHScrollingHeader](https://github.com/MickeyHub/MHFlexibleHeader/raw/master/screenshot.gif)
 
-#Setup with Cocoapods
+#Setup with CocoaPods
 
 ```
 pod 'MHFlexibleHeader', '~> 0.0.1'
